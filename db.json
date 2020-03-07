@@ -1,11 +1,17 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id": 1,
+            "name": "Faithful",
+            "content": "An action is faithful if the kernel is just {e}"
+        },
+        {
+            "id": 2,
+            "name": "Transitive action",
+            "content":"An action G on X is transitive if (∀x)orb(x) = X, i.e. you can reach any element from any element."
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
+}
